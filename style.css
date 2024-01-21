@@ -1,0 +1,78 @@
+
+body{
+    background-color:#1E1E1E ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box{
+    border: 1px solid #1182D5;
+    background-color:black;
+    height: 550px;
+    width: 850px;
+}
+.eg2{
+    color: white;
+    margin: 90px;
+}
+input[type="text"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 10px;
+    color:rgb(128,128,128);
+}
+input[type="email"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 10px;
+    color:rgb(128,128,128);
+}
+input[type="password"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 10px;
+    color:rgb(128,128,128);
+}
+input[type="passsword"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 10px;
+    color:rgb(128,128,128);
+}
+input[type="date"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 10px;
+    color:rgb(128,128,128);
+}
+.eg3{
+    margin-top: 15px;
+}
+input[type="radio"]{
+    margin:0px 20px 0 10px;
+}
+input[type="checkbox"]{
+    margin:0px 20px 0 10px;
+}
+.eg4{
+    margin-top: 15px;
+}
+.eg5{
+    background-color: white;
+    margin-top: 30px;
+    padding: 9px;
+    width: 120px;
+    border:none;
+}
